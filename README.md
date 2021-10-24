@@ -136,3 +136,10 @@ compilers: {
 ---
 
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
+
+
+## Truffle V6.14.4, Openzeppelin 2.3.0
+## ERC-721 Token Name: UdacityStar2
+## ERC-721 Token Symbol: UdS2
+## Token Address
+https://rinkeby.etherscan.io/tx/0xad1cc9a63922e3d131f419efdacc8bae22901d9fcb79014625b9fc2d5c3c17c3
